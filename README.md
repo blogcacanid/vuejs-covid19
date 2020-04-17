@@ -1,6 +1,6 @@
 # vuejs-covid19
 Sistem Informasi Covid-19 Vue.js
-https://blog.cacan.id/
+https://blog.cacan.id/sistem-informasi-covid-19-vue-js
 
 # Indonesia
 ![001](https://user-images.githubusercontent.com/51890752/79555539-f6770b00-80c9-11ea-9cec-ac42cd58a0ea.jpg)
